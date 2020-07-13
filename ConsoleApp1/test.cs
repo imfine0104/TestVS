@@ -6,5 +6,6 @@ namespace ConsoleApp1
 {
     class test
     {
+        string abc = "asdasd";
     }
 }
